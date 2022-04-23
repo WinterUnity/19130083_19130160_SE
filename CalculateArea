@@ -1,0 +1,4 @@
+public double calculatingSquareArea(int x){
+  double result = x*x;
+  return result;
+}
